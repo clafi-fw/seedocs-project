@@ -1,7 +1,10 @@
 # ClaFi SeeDocs project
 
-Open this folder in SeeDocs to browse the ClaFi API reference. `Surface.cfg` contains the saved
-reference, and `footnotes/` contains the notes linked from declarations.
+ClaFi authors maintain this SeeDocs project to build and publish the framework's documentation
+portal. Its intermediate files include the API declarations scanned from the framework
+(`Surface.cfg`) and the notes authors write for those declarations (`footnotes/`).
+
+## Checking and updating the API declarations
 
 To scan or check the framework, clone [ClaFi](https://github.com/clafi-fw/cpp) into `Lib/ClaFi`
 and this repository into `SeeDocs Projects/ClaFi` under the same parent folder. For another
